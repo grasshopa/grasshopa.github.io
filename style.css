@@ -1,0 +1,66 @@
+body {
+	background-color:#e6e6e6;
+	margin:0px auto;
+}
+#wrapper {
+	text-align:center;
+	margin:0px auto;
+}
+header {
+	text-align:center;
+}
+#main {
+	text-align:center;
+}
+h1 {
+	font-size:20px;
+	text-align:center; 
+	padding:5px; 
+	margin:20px 0px;
+}
+h2 {
+	background-color:#777; 
+	color:#fff; 
+	font-size:19px;
+	text-align:center; 
+	padding:20px; 
+	margin:20px;
+	border-radius: 7px; 
+    -webkit-border-radius: 7px;  
+    -moz-border-radius: 7px;
+}
+h3 {
+	background-color:#777; 
+	color:#fff;
+	font-size:16px;
+	padding:15px; 
+	text-align:center; 
+	margin:20px 0px 0px 0px;
+}
+h4 {
+	margin:0;
+	padding:5px;
+	background-color: #e6e6e6;
+	font-size:15px;
+}
+.honbun {
+	 background-color:#fff;
+	 padding:20px 50px;
+	 text-align:left;
+}
+.tsuika {
+	 border:1px solid #ccc; 
+	 text-align:left; 
+	 margin:20px 0px;
+	 padding:5px;
+}
+.tsuika p {
+	 margin-top:0px;
+	 padding:10px;
+	 display: inline-block;
+}
+
+footer {
+	margin-top: 20px;
+}
+
